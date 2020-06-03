@@ -1,4 +1,4 @@
-"""
+
 
 print(2333)
 print(2.333)
@@ -21,7 +21,7 @@ print(name)
 a = float(input("请输入:"))
 b = float(input("请输入:"))
 print("input获取的内容:",a+b)
-"""
+
 print("wgybyubuybbyubyyu","dadadadadadadada")
 a ="wgybyubuybbyubyyu"
 b ="dadadadadadadada"
