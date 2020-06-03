@@ -1,19 +1,5 @@
 
 
-print(2333)
-print(2.333)
-print(True)
-print(())
-print([])
-print({})
-
-我叼你妈的真就白给呗
-
-name = "茄子"
-print(name)
-
-
-
 
 
 
